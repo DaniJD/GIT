@@ -4,6 +4,6 @@ controllers:
         namespace: App\Controller
     type: attribute
 
-annotation_index:
+anotacion_index:
   path: /
-  controller: App\Controller\AnnotationController::index
+  controller: App\Controller\AnotacionControlador::index
